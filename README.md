@@ -1,7 +1,7 @@
 # Inertia Wheel Pendulum
 
 This repository contains a complete project for an inertia wheel pendulum, including a 3D mechanical design, embedded C code for STM32 microcontroller, visualization in LabVIEW, and LQR (Linear-Quadratic Regulator) parameter generation using MATLAB.
-![invertedpendulum](https://github.com/Amine5588/Inertia-Wheel-Pendulum/inverted.gif)
+![invertedpendulum](https://github.com/Amine5588/Inertia-Wheel-Pendulum//blob/main/inverted.gif)
 ## Table of Contents
 - [Description](#description)
 - [Mechanical Design (SolidWorks)](#mechanical-design)
